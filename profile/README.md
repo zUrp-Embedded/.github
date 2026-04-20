@@ -22,7 +22,7 @@ Welcome to DIY hell. We build embedded systems with the discipline of a space ag
 
 ### Work in Progress ⚠ private repo ⚠
 
-- **[LCARS-fleet](https://github.com/zUrp-Embedded/LCARS-fleet)** — Multi-agent **fleet runtime** for Claude Code. ~1 MB of bash, zero framework, NASA-grade corpus discipline. Low-tech agentic orchestration, moon-shot quality, built solo.
+- **[LCARS-fleet](https://github.com/zUrp-Embedded/LCARS-fleet)** — *Lightweight Contained Agent Resilient System.* Multi-agent **fleet runtime** for Claude Code. ~1 MB of bash, zero framework, NASA-grade corpus discipline. The agent is **contained** (a wall, not a prompt) and the system is **resilient** (automatic recovery on failure). Low-tech agentic orchestration, moon-shot quality, built solo.
 
 ### Released ✅
 
