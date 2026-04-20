@@ -10,6 +10,8 @@
 ![license](https://img.shields.io/badge/license-GPL--3.0-blue)
 ![tech](https://img.shields.io/badge/tech-1MB_of_bash-informational)
 
+[**🌐 zurp-embedded.github.io**](https://zurp-embedded.github.io)
+
 </div>
 
 ---
