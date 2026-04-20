@@ -1,27 +1,37 @@
-<picture>
-    <img
-        alt="A pixel art of a Dophin with text: Flipper Devices"
-        src="/profile/Low_tech_DIY.png">
-</picture>
+<div align="center">
 
-# Hi here 👋
-Welcome to DIY hell, powered by ![GPL 3.0 License](https://img.shields.io/badge/GitHub-GPL--3.0-informational)
+<img src="/profile/Low_tech_DIY.png" alt="zUrp Embedded logo — Nyan Cat, Low-Tech & DIY caption" width="320">
 
-## Released ✅
+# zUrp Embedded
 
-Soon ©️
+*Low-tech, DIY, moon-shot embedded systems.*
 
-## Work in Progress (⚠ NOT YET VALIDATED ⚠)
+![status](https://img.shields.io/badge/status-work_in_progress-orange)
+![license](https://img.shields.io/badge/license-GPL--3.0-blue)
+![tech](https://img.shields.io/badge/tech-1MB_of_bash-informational)
 
-#### Mounts
-- **[Kaiju](https://github.com/zUrp-Astronomics/kaiju)** Fully integrated harmonic **alt-az mount** for DSLR, like a SeeStar on steroids
-- **[Berserker](https://github.com/zUrp-Astronomics/berserker)** State-of-the-art harmonic **equatorial mount**, 3D printed with CNC machined core
+</div>
 
-#### Gadgets
-- **[Unicorn](https://github.com/zUrp-Astronomics/unicorn)** Small but effective **controller** for astronomical mount, in a Tic-Tac's box size (based on TeenAstro project)
-- **[Kraken](https://github.com/zUrp-Astronomics/kraken)** Compact but efficient **powerbox**, in a Raspberry Pi case (based on NAFAbox / Astralim projects)
-- **[Maelstrom](https://github.com/zUrp-Astronomics/maelstrom)** APS-C cooled astronomical **camera**, with Nikon D40 CCD sensor (based on Cam86/Cam87 project)
+---
 
+## 👋 Hi here
 
-## Futures projects
-- **[Wraith](https://github.com/zUrp-Astronomics/)** All in One mount controller with a Compute Module 5
+Welcome to DIY hell. We build embedded systems with the discipline of a space agency and the headcount of one developer. Low-tech by conviction, over-engineered by principle.
+
+## 🚀 Projects
+
+### Work in Progress ⚠ private repo ⚠
+
+- **[LCARS-fleet](https://github.com/zUrp-Embedded/LCARS-fleet)** — Multi-agent **fleet runtime** for Claude Code. ~1 MB of bash, zero framework, NASA-grade corpus discipline. Low-tech agentic orchestration, moon-shot quality, built solo.
+
+### Released ✅
+
+*Soon ©️*
+
+---
+
+<div align="center">
+
+*zUrp Embedded — a subsidiary of zUrp Industries.*
+
+</div>
