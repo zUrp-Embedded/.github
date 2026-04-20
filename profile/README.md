@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="/profile/Low_tech_DIY.png" alt="zUrp Embedded logo — Nyan Cat, Low-Tech & DIY caption" width="320">
-
-# zUrp Embedded
+<img src="/profile/logo_zUrp-embedded.png" alt="zUrp Embedded — corporate logotype" width="480">
 
 *Low-tech, DIY, moon-shot embedded systems.*
 
